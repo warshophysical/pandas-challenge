@@ -1,6 +1,6 @@
 # Conclusion
 
-I investigated that as age of player increases whether average purchase price increases, or not. \
+I investigated that as age of player increases whether average purchase price increaces, or not. \
 
 #Relation Between Average Price and Number of Sales by Male depending age
 
