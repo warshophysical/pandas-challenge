@@ -2,9 +2,9 @@
 
 I investigated that as age of player increases whether average purchase price increaces, or not. \
 
-The sales performance of males changed significantly between 19 and 20 years old.\
+The sales performance of males changed significantly between 19-20 and between 24-28 years old.\
 Males reached out their greatest number of purchase on 20 ages with 82 purchase.\
-we can say that the most profitable area of graph is between 14 and 32 years old.\
+we can say that the most profitable area of graph is between 14 and 32 years old.
 
 #Relation Between Average Price and Number of Sales by Male depending age
 
