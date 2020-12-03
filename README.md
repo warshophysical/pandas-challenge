@@ -1,8 +1,6 @@
 #Conclusion
 
-# Relation between Piece and Age by Male
-
-The number of sales of product in male decreases irregularly.
+# Relation Between Average Piece and Age by Male
 
 ![alt text](https://github.com/warshophysical/pandas-challenge/blob/main/HeroesOfPymoli/Resources/Picture1.png?raw=true)
 
