@@ -1,5 +1,6 @@
 # Conclusion
 
+I investigate that as age of player increases whether average purchase price increases, or not.
 #Relation Between Average Price and Number of Sales by Male depending age
 
 ![alt text](https://github.com/warshophysical/pandas-challenge/blob/main/HeroesOfPymoli/Resources/Picture1.png?raw=true)
